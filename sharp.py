@@ -15,10 +15,10 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 loop = asyncio.get_event_loop()
 
 # Bot Configuration: Set with Authority
-TOKEN = '7624153564:AAGgt8ZIK-0x91BmlGCSpxVvWbRKNZY8W6w'
+TOKEN = '7391822749:AAE7KSDWzn6uToPqQHcbKgPSxKgILkQSGJ8'
 ADMIN_USER_ID = 1662067349
 MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
-USERNAME = "@SharpX72"  # Immutable username for maximum security
+USERNAME = "@Sahil7010"  # Immutable username for maximum security
 
 # Attack Status Variable to Control Single Execution
 attack_in_progress = False
